@@ -2,11 +2,6 @@ h1{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-time{
-    padding-left:50px;
-    color:aliceblue;
-    background-color: black;
-}
 p{
     text-align: center;
     padding-left: 50px;
@@ -15,4 +10,12 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+time{
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color:aliceblue;
+    background-color: black;
 }
